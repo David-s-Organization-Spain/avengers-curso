@@ -3,5 +3,5 @@
 * Duende Verde
 * Doctor Octupus
 * Venom
-* Sandman
 * Rhino
+* Capitan America
