@@ -4,3 +4,4 @@
 * Doctor Octupus
 * Venom
 * Sandman
+* Rhino
